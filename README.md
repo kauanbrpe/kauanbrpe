@@ -17,5 +17,5 @@ To start university and deepen my knowledge in system development.
 
 📩 **Contact:** kauanbr_pe@hotmail.com  
 
-_"Through meadows and fields, I go."_   
+_"Pelos prados e campinas, eu vou."_ 🇻🇦   
 
