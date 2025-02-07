@@ -17,5 +17,5 @@ To start university and deepen my knowledge in system development.
 
 📩 **Contact:** kauanbr_pe@hotmail.com  
 
-_"Pelos prados e campinas, eu vou."_ 🇻🇦   
+_"Pelos prados e campinas, eu vou."_   
 
