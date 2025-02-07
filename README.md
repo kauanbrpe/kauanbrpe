@@ -1,21 +1,21 @@
-# Olá, eu sou Kauan Henrique! 👋  
+# Hello, I'm Kauan Henrique! 👋  
 
-Sou um entusiasta da tecnologia e recém-formado no Ensino Médio pela **Escola de Referência em Ensino Médio Silva Jardim**. Durante minha jornada acadêmica, desenvolvi um grande interesse por tecnologia ao auxiliar professores com problemas em computadores, o que me motivou a seguir carreira na área de **Análise e Desenvolvimento de Sistemas (ADS)**.  
+I'm a technology enthusiast and a recent high school graduate from **Escola de Referência em Ensino Médio Silva Jardim**. During my academic journey, I developed a strong interest in technology by helping teachers with computer issues, which inspired me to pursue a career in **Systems Analysis and Development (ADS)**.  
 
-## 🚀 Minha Jornada  
-- 🎓 Concluí o Ensino Médio em 2024.  
-- 💻 Atualmente, estou estudando **Algoritmos** e **Java** utilizando o **NetBeans**.  
-- 🎯 Meu objetivo para 2025 é ingressar na universidade para cursar **ADS**.  
+## 🚀 My Journey  
+- 🎓 Graduated from high school in 2024.  
+- 💻 Currently studying **Algorithms** and **Java** using **NetBeans**.  
+- 🎯 My goal for 2025 is to enter university and study **ADS**.  
 
-## 📚 Tecnologias e Ferramentas  
-- **Linguagens:** Java (em aprendizado).  
-- **Ferramentas:** NetBeans.  
-- **Interesses:** Desenvolvimento de software, lógica de programação e inovação tecnológica.  
+## 📚 Technologies & Tools  
+- **Languages:** Java (learning).  
+- **Tools:** NetBeans.  
+- **Interests:** Software development, programming logic, and technological innovation.  
 
-## 🌱 Meta para 2025  
-Ingressar na universidade e aprofundar meus conhecimentos na área de desenvolvimento de sistemas.  
+## 🌱 Goal for 2025  
+To start university and deepen my knowledge in system development.  
 
-📩 **Contato:** kauanbr_pe@hotmail.com  
+📩 **Contact:** kauanbr_pe@hotmail.com  
 
-_"Pelos prados e campinas, eu vou."_  
+_"Through meadows and fields, I go."_   
 
