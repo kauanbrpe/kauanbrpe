@@ -1,14 +1,21 @@
-## Olá👋
+# Olá, eu sou Kauan Henrique! 👋  
 
-<!--
-**kauanbrpe/kauanbrpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da tecnologia e recém-formado no Ensino Médio pela **Escola de Referência em Ensino Médio Silva Jardim**. Durante minha jornada acadêmica, desenvolvi um grande interesse por tecnologia ao auxiliar professores com problemas em computadores, o que me motivou a seguir carreira na área de **Análise e Desenvolvimento de Sistemas (ADS)**.  
 
-Olá, meu nome é Kauan Henrique, tenho 18 anos, acabei de terminar meu Ensino Médio na Escola de Referência em Ensino Médio Silva Jardim, amante da tecnologia, estou começando meus estudos na área da tecnologia antes de ingressar na vida acadêmica.
+## 🚀 Minha Jornada  
+- 🎓 Concluí o Ensino Médio em 2024.  
+- 💻 Atualmente, estou estudando **Algoritmos** e **Java** utilizando o **NetBeans**.  
+- 🎯 Meu objetivo para 2025 é ingressar na universidade para cursar **ADS**.  
 
-Minha jornada no Ensino Médio foi marcada por uma intensa busca por conhecimento resolvendo os computadores dos professores do Colégio, de uma forma simples, com esse incentivo, tive a vontade de fazer Análise e Desenvolvimento de Sistemas quando eu terminasse meu 3º ano, que completei no ano de 2024.
+## 📚 Tecnologias e Ferramentas  
+- **Linguagens:** Java (em aprendizado).  
+- **Ferramentas:** NetBeans.  
+- **Interesses:** Desenvolvimento de software, lógica de programação e inovação tecnológica.  
 
-Estou aprendendo Algoritmos e Java (por meio do programa NetBeans). Que nesse ano de 2025, eu consiga ingressar na universidade de ADS.
+## 🌱 Meta para 2025  
+Ingressar na universidade e aprofundar meus conhecimentos na área de desenvolvimento de sistemas.  
 
-Pelos prados e campinas, eu vou.
+📩 **Contato:** kauanbr_pe@hotmail.com  
 
-Contato: kauanbr_pe@hotmail.com
+_"Pelos prados e campinas, eu vou."_  
+
