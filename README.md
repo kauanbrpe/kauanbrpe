@@ -5,8 +5,8 @@ Welcome to my profile! This space will be used to share the results of my colleg
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mayconyrp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mayconyrp">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconyrp&layout=compact&langs_count=16&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauanbrpe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mayconyrp">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanbrpe&layout=compact&langs_count=16&theme=dark" alt="Top Langs">
 </div>
 
 ---
