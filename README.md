@@ -12,12 +12,12 @@ Welcome to my profile! This space will be used to share the results of my colleg
 ---
 
 ## 📫 Contact
-✉️ Email: [kauanbr_pe@hotmail.com](mailto:kauanbr_pe@hotmail.com)
+Email: kauanbrpe.dev@hotmail.com
 <div>
 <a href="https://instagram.com/kauanbr_pe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/kauanbrpe/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.x.com/kauanbr_pe/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-X-%230077B5?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kauanbrpe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/kauanbrpe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
