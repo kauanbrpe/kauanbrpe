@@ -14,7 +14,7 @@ Welcome to my profile! This space will be used to share the results of my colleg
 ## 📫 Contact
 Email: kauanbrpe.dev@hotmail.com
 <div>
-<a href="https://codepen.io/kauanbrpe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Codepen-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://codepen.io/kauanbrpe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Codepen-%23E4405F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/kauanbrpe.dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kauanbrpe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
