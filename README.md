@@ -20,4 +20,4 @@ Email: kauanbrpe.dev@hotmail.com
 
 ---
 
-*Pelos prados e campinas, eu vou. 🇻🇦*
+*O Futuro é tech, e nós também!*
