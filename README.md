@@ -1,31 +1,31 @@
-# Olá, meu nome é Kauan Henrique👋
+# 👋 Prazer, sou **Kauan Henrique**
 
-Bem-vindo ao meu perfil! Este espaço será usado para compartilhar os resultados das minhas atividades na faculdade e algumas provas realizadas ao longo da minha trajetória acadêmica.
-
----
-
-# "O que você faz?"
-* Análise e Desenvolvimento de Sistemas - ***Centro Universitário Tiradentes (Recife)*** | 2º período
-* Embaixador Universitário da ***Digital Innovation One***
+Seja bem-vindo ao meu perfil! Aqui compartilho projetos acadêmicos, atividades práticas da faculdade e desafios que fazem parte da minha jornada como desenvolvedor em formação.
 
 ---
 
-# Meu progresso
+## 💻 Sobre mim
+
+- Estudante de **Análise e Desenvolvimento de Sistemas** no *Centro Universitário Tiradentes - Recife* | **2º período**
+- **Embaixador Universitário** na **Digital Innovation One (DIO)**.
+
+---
+
+## 📈 Meu progresso no GitHub
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kauanbrpe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de kauanbrpe">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanbrpe&layout=compact&langs_count=16&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauanbrpe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanbrpe&layout=compact&langs_count=16&theme=dark" alt="Top Languages">
 </div>
 
 ---
 
-## 📫 Contato
-Email: kauanbrpe.dev@hotmail.com
-<div>
-  <a href="https://dio.me/users/kauanbrpe_dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-DIO-%23E4405F?style=for-the-badge&logo=dio&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kauanbrpe.dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauanbrpe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 📬 Redes Sociais
+
+- ✉️ Email: [kauanbrpe.dev@hotmail.com](mailto:kauanbrpe.dev@hotmail.com)
+
+[![DIO](https://img.shields.io/badge/-DIO-%23E4405F?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me/users/kauanbrpe_dev)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanbrpe.dev/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanbrpe)
 
 ---
 
-*O Futuro é tech, e nós também!*
+### 💡 *O futuro é tech e nós também.*
