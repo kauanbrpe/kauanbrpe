@@ -25,7 +25,3 @@ Seja bem-vindo ao meu perfil! Aqui compartilho projetos acadêmicos, atividades 
 - ✉️ Email: [kauanbrpe.dev@hotmail.com](mailto:kauanbrpe.dev@hotmail.com)
 
 [![DIO](https://img.shields.io/badge/-DIO-%23E4405F?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me/users/kauanbrpe_dev)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanbrpe.dev/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanbrpe)
-
----
-
-### 💡 *O futuro é tech e nós também.*
