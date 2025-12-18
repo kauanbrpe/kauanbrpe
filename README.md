@@ -1,5 +1,5 @@
 # 💫 Olá, mundo!
-👋 Prazer, sou Kauan Henrique<br>Seja bem-vindo ao meu perfil! Aqui compartilho projetos acadêmicos, atividades práticas da faculdade e desafios que fazem parte da minha jornada como desenvolvedor em formação.<br><br>💻 Sobre mim<br>Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Tiradentes - Recife | 2º período
+👋 Prazer, sou Kauan Henrique<br>Seja bem-vindo ao meu perfil! Aqui compartilho projetos acadêmicos, atividades práticas da faculdade e desafios que fazem parte da minha jornada como desenvolvedor em formação.<br><br>💻 Sobre mim<br>Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Tiradentes - Recife | 3º período
 
 
 ## 🌐 Socials:
