@@ -1,6 +1,6 @@
 <center>
 <h2>💫 Olá! Me chamo Kauan Henrique!</h2>
-Sou Desenvolvedor Back-end em formação, apaixonado por computação desde criança.<br>🎓 No 3º período em ADS na UNIT<br>💼 Estagiário ServiceNow na Extreme Digital Experience<br><br>
+Sou Desenvolvedor Back-end em formação, apaixonado por computação desde criança.<br>🎓 No 3º período em ADS na UNIT<br>
 
 <center>
 
