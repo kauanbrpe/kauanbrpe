@@ -71,7 +71,7 @@
 
 ---
 
-### 📝 Versionamento e Documentação
+### 📝 APIs e Versionamento
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
