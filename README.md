@@ -9,15 +9,17 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `< Desenvolvedor Back-end em Formação />`
+### `< Dev ServiceNow />`
+### `< ITSM | Supplier Lifecycle Operations (SLO) />`
 
-*Apaixonado por computação desde criança.*
+*"Todos nascem como originais, mas muitos morrem como fotocópias" - Carlo Acutis*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Estudante+de+ADS+%7C+3%C2%BA+Per%C3%ADodo+%40+UNIT;Estagi%C3%A1rio+ServiceNow+%40+Extreme+Digital+Experience)](https://github.com/kauanbrpe)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Estudante+de+ADS+%7C+4%C2%BA+Per%C3%ADodo+%40+UNIT;Desenvolvedor+ServiceNow+%40+EDX)](https://github.com/kauanbrpe)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanbrpe)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kauanbrpe.dev)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat-square&logo=academia&logoColor=white)](https://lattes.cnpq.br/6860961717611650)
+[![Portfolio](https://img.shields.io/badge/Portfólio-%230077B5?style=flat-square&logo=&logoColor=white)](https://dev.kauanbrpe.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kauanbrpe.dev@hotmail.com)
 
 </div>
@@ -56,7 +58,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
