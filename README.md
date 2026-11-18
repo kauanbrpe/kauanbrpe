@@ -10,7 +10,7 @@
 ```
 
 ### `< Dev ServiceNow />`
-### `< ITSM | Supplier Lifecycle Operations (SLO) />`
+### `< ITSM | CSM | Supplier Lifecycle Operations (SLO) />`
 
 *"Todos nascem como originais, mas muitos morrem como fotocópias" - Carlo Acutis*
 
